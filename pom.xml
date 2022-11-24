@@ -10,8 +10,8 @@
 
     <modules>
         <module>../ostrade-proto-common</module>
-        <module>../ostrade-proto-counterparty</module>
         <module>../ostrade-proto-instrument</module>
+        <module>../ostrade-proto-legal-entity</module>
         <module>../ostrade-proto-trade</module>
     </modules>
 
